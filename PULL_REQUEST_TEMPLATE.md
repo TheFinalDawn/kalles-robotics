@@ -22,4 +22,4 @@ Extra description here.
 `1. type "1. " and github will automatically generate an indented list.`  
 `  a. press tab on a new line and type "a. " to add a detail.`
   
-###### Pull Request Template by TheFinalDawn. Once you submit your pull request, a programmer with admin permmissions will review the updates, and probably accept it!
+###### Pull Request Template by TheFinalDawn. Once you submit your pull request, a programmer with admin permissions will review the updates, and probably accept it!

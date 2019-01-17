@@ -38,7 +38,7 @@ print("6. Floor Division")
 print("7. Modulus Division")
 
 # Take input from the user
-choice = input("Enter choice(1/2/3/4/5):")
+choice = input("Enter choice(1/2/3/4/5/6/7):")
 
 num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))

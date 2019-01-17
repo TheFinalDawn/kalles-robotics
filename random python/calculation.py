@@ -1,4 +1,4 @@
-# Program make a simple calculator that can add, subtract, multiply, divide, exponent, floor, and modulus using functions
+# A simple calculator that can add, subtract, multiply, divide, exponent, floor, and modulus using functions
 
 # This function adds two numbers
 def add(x, y):
@@ -60,6 +60,9 @@ elif choice == '6':
     print(num1,"//",num2,"=", fldiv(num1,num2))
 elif choice == '7':
     print(num1,"%",num2,"=", modulus(num1,num2))
+elif choice == 'spam':
+    while 5 > 3:
+        print("According to all known laws of aviation, there is no way that a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyways. Because bees don't care what humans think is impossible.")
 else:
    print("Invalid input")
 print("press enter to exit.")

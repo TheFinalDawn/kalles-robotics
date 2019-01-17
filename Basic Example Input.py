@@ -1,0 +1,5 @@
+print("Enter your name:")
+x = input()
+print("Hello there, " + x + ".")
+print("Press enter to continue.")
+y = input()

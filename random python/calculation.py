@@ -29,10 +29,10 @@ def modulus(x, y):
     return x % y
 
 print("Select operation.")
-print("1.Add")
-print("2.Subtract")
-print("3.Multiply")
-print("4.Divide")
+print("1. Add")
+print("2. Subtract")
+print("3. Multiply")
+print("4. Divide")
 print("5. Exponent")
 print("6. Floor Division")
 print("7. Modulus Equation")

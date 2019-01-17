@@ -58,7 +58,7 @@ elif choice == '5':
     print(num1,"^",num2,"=", exponent(num1,num2))
 elif choice == '6':
     print(num1,"//",num2,"=", fldiv(num1,num2))
-elif choice == '6':
+elif choice == '7':
     print(num1,"%",num2,"=", modulus(num1,num2))
 else:
    print("Invalid input")

@@ -35,7 +35,7 @@ print("3.Multiply")
 print("4.Divide")
 print("5. Exponent")
 print("6. Floor Division")
-print("7. Modulus Division")
+print("7. Modulus Equation")
 
 # Take input from the user
 choice = input("Enter choice(1/2/3/4/5/6/7):")

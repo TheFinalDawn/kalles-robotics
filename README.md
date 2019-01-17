@@ -1,3 +1,5 @@
+Azure Pipelines status:
+[![Build Status](https://dev.azure.com/kalles-robotics/Robotics%202018-2019/_apis/build/status/Kalles-Robotics-Club.kalles-robotics?branchName=master)](https://dev.azure.com/kalles-robotics/Robotics%202018-2019/_build/latest?definitionId=1?branchName=master)
 # Contributions
 Oh boy, time to structure how people are supposed to contribute because I'll bet somebody here doesn't know GitHub!  
 *I know for a fact the teacher doesn't.*  
@@ -20,4 +22,5 @@ Okay, now for the good part.
 #### To make sure everyone's being nice, programmers are ***REQUIRED*** to post ALL updates (commits) to their own branch, labeled (your username/real.name)-update, unless you're in a Teletype Portal.
 #### The person posting the updates must add everyone else as contributors to the commit.
 #### When posting a pull request to send your updates (try doing it at the end of each meet, at least), please label it based on what it's about. For example, if [@TheFinalDawn](https://github.com/TheFinalDawn) were to fix a turning bug that caused the robot to turn forever, he would label the pull request "Fix infinite turning bug" and add the [bug](https://github.com/TheFinalDawn/kalles-robotics/labels/bug) label to the request.
+#### It is preferred you use Teletype when programming.
 #### Please contact your head programmer for help with GitHub-related issues.

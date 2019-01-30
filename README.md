@@ -14,8 +14,8 @@ I'm adding this here since I'm pretty sure at least **someone** doesn't know Git
 * The Pull Requests tab is where it gets interesting. This tab is where you send your contributions! I'll explain this one later.  
 * The Projects tab. This tab is mainly for organization, and you can see who has been assigned to what.  
 * Almost done, we have the Wiki tab. That one... Isn't used much... ~~at least in our case~~  
-* Now for some admin tabs! The Insights tab is where admins can see repository stats.  
-* Last, but not least ~~(yet still an admin tool)~~ is the settings tab. Of course.  
+* The Insights tab is where you can see repository stats.  
+* Last, but not least ~~(an admin tool)~~ is the settings tab. Of course.  
   
 ## Contribution Rules
 Okay, now for the good part.  
